@@ -979,8 +979,8 @@ nav {
     -moz-transition: all 0s linear;
     transition: all 0s linear;
     padding: 0 1rem;
-    font-size: 4rem;
-    line-height: 4rem;
+    font-size: 6rem;
+    line-height: 6rem;
     color: #fff;
     opacity: 0; }
     @media only screen and (max-width: 600px) {
